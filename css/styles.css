@@ -1,8 +1,20 @@
-/* * {
-    margin: 0;
-    padding: 0;
-    background: red;
-} */
-.size {
-    font-size: 20px;
+
+/* NAVIGATION- STYLES */
+.f1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav{
+    display: flex;
+    padding: 10px 20px;
+    align-items: center;
+        gap: 40px;
+
+}
+.f3{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
 }
